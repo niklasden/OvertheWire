@@ -1,0 +1,3 @@
+bandit7 - HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+cmd: find / -group bandit6 -user bandit7 
