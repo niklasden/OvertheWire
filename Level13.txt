@@ -1,0 +1,12 @@
+bandit13 - 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+
+
+cmd:
+xxd -r niklas.txt > niklas
+file niklas
+Bunch of:
+mv file to rename to change extension, otherwise gzip throws error
+gzip -d --force data8.gz
+bunzip2 data8.bin
+tar -xf data8.bin.out
+

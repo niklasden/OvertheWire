@@ -1,0 +1,2 @@
+bandit11 - IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+cmd: cat data.txt | base64 -d -i
